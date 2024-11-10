@@ -1,0 +1,33 @@
+.product-page {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    /* justify-content: center; */
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+}
+
+.sub-title-product-page {
+    color: #525252;
+    margin: 0 40px;
+    
+    font-weight: 500;
+    font-size: medium;
+}
+
+.our-title,
+.agricoles-title {
+    margin: 0;
+    font-weight: 600;
+    font-size: xxx-large;
+    display: inline;
+}
+
+.our-title {
+    color: black;
+}
+
+.agricoles-title {
+    color: #2DA884
+}

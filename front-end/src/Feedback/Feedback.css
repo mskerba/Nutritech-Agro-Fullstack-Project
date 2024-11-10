@@ -1,0 +1,15 @@
+.feedbacks-section {
+    padding: 10px;
+}
+
+.feedback-card {
+    width: 100%;
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+    /* padding: 10px; */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.feedback-author {
+    font-weight: bold;
+}
